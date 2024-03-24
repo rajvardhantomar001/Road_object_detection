@@ -12,4 +12,4 @@ The model.py file contains the DL model to process the image.
 The frontend is just the proof of concept could be developed in a better way if the time permits.
 
 The screenshot of the frontend is:
-![frontend](https://github.com/rajvardhantomar001/Road_object_detection/frontend
+![frontend](https://github.com/rajvardhantomar001/Road_object_detection/assets/101424157/3964bd19-332f-4492-90b6-21c849df3b9f)
